@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="36" viewBox="0 0 160 36" fill="none">
+  <!-- CampusFlow Symbol: Two connected rounded pages forming subtle C -->
+  <g transform="translate(2, 4)">
+    <!-- Back page (cobalt tint) -->
+    <rect x="6" y="0" width="18" height="23" rx="3.5" fill="#4569E8" opacity="0.45"/>
+    <!-- Front page (white/cobalt) -->
+    <rect x="0" y="5" width="18" height="23" rx="3.5" fill="#FFFFFF"/>
+    <!-- Connected link path / subtle notch lines inside front page -->
+    <rect x="4" y="11" width="10" height="2" rx="1" fill="#14243A" opacity="0.85"/>
+    <rect x="4" y="16" width="7" height="2" rx="1" fill="#4569E8"/>
+    <rect x="4" y="21" width="9" height="2" rx="1" fill="#14243A" opacity="0.55"/>
+  </g>
+  <!-- Typeset Wordmark -->
+  <text x="32" y="21" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" letter-spacing="-0.3px">CampusFlow</text>
+  <!-- Restrained descriptor -->
+  <text x="32.5" y="30" fill="#5A789C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="7.5" font-weight="600" letter-spacing="1.2px">LEARNING WORKSPACE</text>
+</svg>
